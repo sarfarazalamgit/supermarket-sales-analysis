@@ -192,6 +192,12 @@ supermarket-sales-analysis/
 ├── 📂 data/                   # Dataset files
 │   └── supermarket.csv
 │
+├── 🖼️ images/                 # Saved visualizations
+│   ├── category_sales.png
+│   ├── regional_sales.png
+│   ├── monthly_sales.png
+│   └── top_products.png
+│
 ├── 📄 README.md               # Project overview and instructions
 └── 📦 requirements.txt        # Python dependencies
 ```
