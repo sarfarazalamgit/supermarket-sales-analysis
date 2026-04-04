@@ -129,16 +129,16 @@ The dataset `supermarket.csv` includes:
 ## 📸 Visualizations
 
 ### 📊 Sales by Category
-![Sales by Category](images/category_sales.png)
+![Sales by Category](images/category_sales.PNG)
 
 ### 🌍 Regional Sales Distribution
-![Regional Sales](images/regional_sales.png)
+![Regional Sales](images/regional_sales.PNG)
 
 ### 📈 Monthly Sales Trend
-![Monthly Sales](images/monthly_sales.png)
+![Monthly Sales](images/monthly_sales.PNG)
 
 ### 🏆 Top Products
-![Top Products](images/top_products.png)
+![Top Products](images/top_products.PNG)
 
 ---
 
