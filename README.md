@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/eda_banner.jpeg" alt="Ecommerce Data Analytics Pipeline Banner" width="100%">
+</p>
+
 # 🛒 Supermarket Sales Analysis (EDA)
 
 ---
